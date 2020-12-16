@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity--> |
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k3KAW8Pnf7mkmdSMPHz27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
