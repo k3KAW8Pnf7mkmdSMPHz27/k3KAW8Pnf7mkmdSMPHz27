@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7010](https://github.com/JabRef/jabref/issues/7010) in [JabRef/jabref](https://github.com/JabRef/jabref)
-2. ❗️ Opened issue [#7195](https://github.com/JabRef/jabref/issues/7195) in [JabRef/jabref](https://github.com/JabRef/jabref)
-3. 🗣 Commented on [#7180](https://github.com/JabRef/jabref/issues/7180) in [JabRef/jabref](https://github.com/JabRef/jabref)
-4. 🗣 Commented on [#7180](https://github.com/JabRef/jabref/issues/7180) in [JabRef/jabref](https://github.com/JabRef/jabref)
-5. 🗣 Commented on [#7173](https://github.com/JabRef/jabref/issues/7173) in [JabRef/jabref](https://github.com/JabRef/jabref)
-6. 🗣 Commented on [#7173](https://github.com/JabRef/jabref/issues/7173) in [JabRef/jabref](https://github.com/JabRef/jabref)
+1. 🗣 Commented on [#6394](https://github.com/JabRef/jabref/issues/6394) in [JabRef/jabref](https://github.com/JabRef/jabref)
+2. 🗣 Commented on [#6394](https://github.com/JabRef/jabref/issues/6394) in [JabRef/jabref](https://github.com/JabRef/jabref)
+3. 🗣 Commented on [#7010](https://github.com/JabRef/jabref/issues/7010) in [JabRef/jabref](https://github.com/JabRef/jabref)
+4. ❗️ Opened issue [#7195](https://github.com/JabRef/jabref/issues/7195) in [JabRef/jabref](https://github.com/JabRef/jabref)
+5. 🗣 Commented on [#7180](https://github.com/JabRef/jabref/issues/7180) in [JabRef/jabref](https://github.com/JabRef/jabref)
+6. 🗣 Commented on [#7180](https://github.com/JabRef/jabref/issues/7180) in [JabRef/jabref](https://github.com/JabRef/jabref)
 7. 🗣 Commented on [#7173](https://github.com/JabRef/jabref/issues/7173) in [JabRef/jabref](https://github.com/JabRef/jabref)
 <!--END_SECTION:activity-->
 
