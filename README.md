@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7199](https://github.com/JabRef/jabref/issues/7199) in [JabRef/jabref](https://github.com/JabRef/jabref)
-2. 🗣 Commented on [#5833](https://github.com/JabRef/jabref/issues/5833) in [JabRef/jabref](https://github.com/JabRef/jabref)
+1. 💪 Opened PR [#7210](https://github.com/JabRef/jabref/pull/7210) in [JabRef/jabref](https://github.com/JabRef/jabref)
+2. 🗣 Commented on [#7199](https://github.com/JabRef/jabref/issues/7199) in [JabRef/jabref](https://github.com/JabRef/jabref)
 3. 🗣 Commented on [#7199](https://github.com/JabRef/jabref/issues/7199) in [JabRef/jabref](https://github.com/JabRef/jabref)
-4. 🗣 Commented on [#7199](https://github.com/JabRef/jabref/issues/7199) in [JabRef/jabref](https://github.com/JabRef/jabref)
+4. 🗣 Commented on [#5833](https://github.com/JabRef/jabref/issues/5833) in [JabRef/jabref](https://github.com/JabRef/jabref)
 5. 🗣 Commented on [#7199](https://github.com/JabRef/jabref/issues/7199) in [JabRef/jabref](https://github.com/JabRef/jabref)
-6. 🗣 Commented on [#7201](https://github.com/JabRef/jabref/issues/7201) in [JabRef/jabref](https://github.com/JabRef/jabref)
-7. 🗣 Commented on [#6394](https://github.com/JabRef/jabref/issues/6394) in [JabRef/jabref](https://github.com/JabRef/jabref)
+6. 🗣 Commented on [#7199](https://github.com/JabRef/jabref/issues/7199) in [JabRef/jabref](https://github.com/JabRef/jabref)
+7. 🗣 Commented on [#7199](https://github.com/JabRef/jabref/issues/7199) in [JabRef/jabref](https://github.com/JabRef/jabref)
 <!--END_SECTION:activity-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k3KAW8Pnf7mkmdSMPHz27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
