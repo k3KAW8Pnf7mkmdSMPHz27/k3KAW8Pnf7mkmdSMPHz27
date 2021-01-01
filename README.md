@@ -5,8 +5,8 @@
 2. 🗣 Commented on [#7228](https://github.com/JabRef/jabref/issues/7228) in [JabRef/jabref](https://github.com/JabRef/jabref)
 3. 🗣 Commented on [#7228](https://github.com/JabRef/jabref/issues/7228) in [JabRef/jabref](https://github.com/JabRef/jabref)
 4. 🗣 Commented on [#7228](https://github.com/JabRef/jabref/issues/7228) in [JabRef/jabref](https://github.com/JabRef/jabref)
-5. 💪 Opened PR [#341](https://github.com/JabRef/user-documentation/pull/341) in [JabRef/user-documentation](https://github.com/JabRef/user-documentation)
-6. 🗣 Commented on [#4342](https://github.com/JabRef/jabref/issues/4342) in [JabRef/jabref](https://github.com/JabRef/jabref)
+5. 🗣 Commented on [#7228](https://github.com/JabRef/jabref/issues/7228) in [JabRef/jabref](https://github.com/JabRef/jabref)
+6. 💪 Opened PR [#341](https://github.com/JabRef/user-documentation/pull/341) in [JabRef/user-documentation](https://github.com/JabRef/user-documentation)
 7. 🗣 Commented on [#4342](https://github.com/JabRef/jabref/issues/4342) in [JabRef/jabref](https://github.com/JabRef/jabref)
 <!--END_SECTION:activity-->
 
