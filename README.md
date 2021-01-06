@@ -1,5 +1,5 @@
 ### Hej! 👋
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k3KAW8Pnf7mkmdSMPHz27&layout=compact">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k3KAW8Pnf7mkmdSMPHz27&layout=compact" alt="My most used programming languages">
 
 #### Social
 <a href="https://www.linkedin.com/in/jasketorp/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>
