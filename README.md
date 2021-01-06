@@ -5,8 +5,10 @@
 <a href="https://www.linkedin.com/in/jasketorp/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>
 
 #### Hobbies
-<a href="https://www.codechef.com/users/radix28_numb">
-<img src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.global_rank&url=https%3A%2F%2Fcompetitive-coding-api.herokuapp.com%2Fapi%2Fcodechef%2Fradix28_numb&prefix=Global%20%23&logo=codechef&logoColor=F5F5DC&labelColor=7b5e47&style=plastic"></a>
+<a href="https://www.codechef.com/users/radix28_numb"><img src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.global_rank&url=https%3A%2F%2Fcompetitive-coding-api.herokuapp.com%2Fapi%2Fcodechef%2Fradix28_numb&prefix=Global%20%23&logo=codechef&logoColor=F5F5DC&labelColor=7b5e47&style=plastic" alt="My CodeChef profile"></a>
+
+<!--<a href="https://www.hackerrank.com/Anonymous222"><img src="https://img.shields.io/badge/Hackerrank-1ba94c?style=plastic&logo=hackerrank&logoColor=white" alt="My HackerRank profile"></a>-->
+
 <!--
 **k3KAW8Pnf7mkmdSMPHz27/k3KAW8Pnf7mkmdSMPHz27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
