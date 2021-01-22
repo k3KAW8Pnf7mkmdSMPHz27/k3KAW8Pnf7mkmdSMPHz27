@@ -1,7 +1,7 @@
 ### Hej! 👋 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k3KAW8Pnf7mkmdSMPHz27&layout=compact" alt="My most used programming languages">
 
 #### Social
-<a href="https://www.linkedin.com/in/jasketorp/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/jonatanasketorp/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>
 
 #### Hobbies
 <a href="https://www.codechef.com/users/radix28_numb"><img src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.global_rank&url=https://competitive-coding-api.herokuapp.com/api/codechef/radix28_numb&prefix=Rank%20&logo=codechef&logoColor=F5F5DC&labelColor=7b5e47&style=plastic&cacheSeconds=259200" alt="My CodeChef profile"></a>
