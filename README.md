@@ -6,6 +6,8 @@
 #### Hobbies
 <a href="https://www.codechef.com/users/radix28_numb"><img src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.global_rank&url=https://competitive-coding-api.herokuapp.com/api/codechef/radix28_numb&prefix=Rank%20&logo=codechef&logoColor=F5F5DC&labelColor=7b5e47&style=plastic&cacheSeconds=259200" alt="My CodeChef profile"></a>
 
+[<img src="https://static.scistarter.org/img/scistarter-logo-web-r.svg" height="20" />](https://scistarter.org/profile?for=81095)
+
 #### Open source contributions by PR
 <a href="https://github.com/JabRef/jabref/pulls?q=is%3Apr+author%3Ak3KAW8Pnf7mkmdSMPHz27"><img title="Merged PRs in JabRef" alt="Number of my merged PRs in JabRef" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3AJabRef%2Fjabref%2Bis%3Apr%2Bauthor%3Ak3KAW8Pnf7mkmdSMPHz27%2Bis%3Amerged&label=JabRef&query=$.total_count&suffix=%20Merged%20PRs&cacheSeconds=259200&style=plastic"></a> <a href="https://github.com/hotosm/tasking-manager/pulls?q=is%3Apr+author%3Ak3KAW8Pnf7mkmdSMPHz27"><img title="Merged PRs in tasking-manager" alt="Number of my merged PRs in tasking-manager" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Ahotosm%2Ftasking-manager%2Bis%3Apr%2Bauthor%3Ak3KAW8Pnf7mkmdSMPHz27%2Bis%3Amerged&label=HOTOSM&query=$.total_count&suffix=%20Merged%20PRs&cacheSeconds=259200&style=plastic"></a>
 
