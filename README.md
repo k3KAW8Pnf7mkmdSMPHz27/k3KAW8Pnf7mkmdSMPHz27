@@ -8,6 +8,8 @@
 [![My Kaggle profile](https://img.shields.io/badge/-weft169aston-blue?logo=kaggle&style=plastic)](https://www.kaggle.com/weft169aston)
 [<img src="https://www.worldcommunitygrid.org/images/logo_images/dyn_logo_3.jpg" height="20" />](https://www.worldcommunitygrid.org/stat/viewMemberInfo.do?userName=Agog)
 [<img src="https://static.scistarter.org/img/scistarter-logo-web-r.svg" height="18" />](https://scistarter.org/profile?for=81095)
+[![My Duolingo profile](https://img.shields.io/badge/Duolingo-jW3jYbeH0s9T-lightgray?logo=duolingo&style=plastic)](https://www.duolingo.com/profile/jW3jYbeH0s9T)
+
 
 #### Open source contributions by PR
 <a href="https://github.com/JabRef/jabref/pulls?q=is%3Apr+author%3Ak3KAW8Pnf7mkmdSMPHz27"><img title="Merged PRs in JabRef" alt="Number of my merged PRs in JabRef" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3AJabRef%2Fjabref%2Bis%3Apr%2Bauthor%3Ak3KAW8Pnf7mkmdSMPHz27%2Bis%3Amerged&label=JabRef&query=$.total_count&suffix=%20Merged%20PRs&cacheSeconds=259200&style=plastic"></a>
