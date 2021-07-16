@@ -2,6 +2,7 @@
 
 #### Social
 <a href="https://www.linkedin.com/in/jonatanasketorp/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>
+<a href="https://triplebyte.com/tb/jonatan-asketorp-b1wozrq"><img src="https://img.shields.io/badge/Triplebyte-0077B5?style=plastic"></a>
 
 #### Hobbies
 [<img src="https://www.worldcommunitygrid.org/images/logo_images/dyn_logo_3.jpg" height="20" />](https://www.worldcommunitygrid.org/stat/viewMemberInfo.do?userName=Agog)
