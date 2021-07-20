@@ -22,7 +22,9 @@
 [![My Duolingo profile](https://img.shields.io/badge/Duolingo-jW3jYbeH0s9T-lightgray?logo=duolingo&style=plastic)](https://www.duolingo.com/profile/jW3jYbeH0s9T)
 
 #### Open source contributions by PR
-<a href="https://github.com/JabRef/jabref/pulls?q=is%3Apr+author%3Ak3KAW8Pnf7mkmdSMPHz27"><img title="Merged PRs in JabRef" alt="Number of my merged PRs in JabRef" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3AJabRef%2Fjabref%2Bis%3Apr%2Bauthor%3Ak3KAW8Pnf7mkmdSMPHz27%2Bis%3Amerged&label=JabRef&query=$.total_count&suffix=%20Merged%20PRs&cacheSeconds=259200&style=plastic"></a>
+<a href="https://github.com/JabRef/jabref/pulls?q=is%3Apr+author%3Ak3KAW8Pnf7mkmdSMPHz27"><img title="Merged PRs in JabRef" alt="Number of my merged PRs in JabRef" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3AJabRef%2Fjabref%2Bis%3Apr%2Bauthor%3Ak3KAW8Pnf7mkmdSMPHz27&label=JabRef&query=$.total_count&suffix=%20PRs&cacheSeconds=259200&style=plastic"></a>
+
+
 
 <!--
 <a href="https://codeforces.com/profile/COM38.comma"><img src="https://img.shields.io/badge/dynamic/json?&labelColor=black&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/COM38.comma&query=%24.rating&prefix=Rating%20&style=plastic" alt="My Codeforces profile"></a>
