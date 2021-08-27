@@ -19,12 +19,18 @@
 
 ##### Competitive Programming
 
+###### Algorithms and data structures
+
 [![My HackerRank profile](https://img.shields.io/badge/HackerRank-Anonymous222-blue?logo=hackerrank&logoColor=black&labelColor=00EA64&style=plastic)](https://www.hackerrank.com/Anonymous222)
 <a href="https://www.codechef.com/users/radix28_numb"><img src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.global_rank&url=https://competitive-coding-api.herokuapp.com/api/codechef/radix28_numb&prefix=Rank%20&logo=codechef&logoColor=F5F5DC&labelColor=7b5e47&style=plastic&cacheSeconds=259200" alt="My CodeChef profile"></a>
-[![My Kaggle profile](https://img.shields.io/badge/-Kaggle-blue?logo=kaggle&style=plastic)](https://www.kaggle.com/weft169aston)
 [![My Kattis Open profile](https://img.shields.io/badge/-Kattis%20Open-blue?style=plastic)](https://open.kattis.com/users/asket)
 [![My Topcoder profile](https://img.shields.io/badge/-Topcoder-blue?logo=topcoder&style=plastic)](https://www.topcoder.com/members/Tools10)
 [![My Codeforces profile](https://img.shields.io/badge/-Codeforces-blue?logo=codeforces&style=plastic)](https://codeforces.com/profile/COM38.comma)
+
+###### Data Science
+
+[![My Kaggle profile](https://img.shields.io/badge/-Kaggle-blue?logo=kaggle&style=plastic)](https://www.kaggle.com/weft169aston)
+[![My DRIVENDATA profile](https://img.shields.io/badge/-DRIVENDATA-blue?style=plastic)](https://www.drivendata.org/users/X6HmvZ73AEmpU8nXPn2JFplMUw/)
 
 ##### Others
 
