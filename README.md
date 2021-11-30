@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/jonatanasketorp/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>
 <a href="https://triplebyte.com/tb/jonatan-asketorp-b1wozrq"><img src="https://img.shields.io/badge/Triplebyte-0077B5?style=plastic"></a>
 
-#### Top Open-source Contributions
+#### Top open-source contributions
 
 <a href="https://github.com/JabRef/jabref/pulls?q=is%3Apr+author%3Ak3KAW8Pnf7mkmdSMPHz27"><img title="My PRs in JabRef" alt="Number of my PRs in JabRef" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3AJabRef%2Fjabref%2Bis%3Apr%2Bauthor%3Ak3KAW8Pnf7mkmdSMPHz27&label=JabRef&query=$.total_count&suffix=%20PRs&cacheSeconds=259200&style=plastic"></a>
 <a href="https://github.com/JabRef/jabref/issues?q=is%3Aissue+author%3Ak3KAW8Pnf7mkmdSMPHz27"><img title="My issues in JabRef" alt="Number of my issues in JabRef" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3AJabRef%2Fjabref%2Bis%3Aissue%2Bauthor%3Ak3KAW8Pnf7mkmdSMPHz27&label=JabRef&query=$.total_count&suffix=%20issues&cacheSeconds=259200&style=plastic"></a>
@@ -17,7 +17,7 @@
 
 #### Hobbies
 
-##### Competitive Programming
+##### Competitive programming
 
 ###### Algorithms and data structures
 
@@ -27,7 +27,7 @@
 [![My Topcoder profile](https://img.shields.io/badge/-Topcoder-blue?logo=topcoder&style=plastic)](https://www.topcoder.com/members/Tools10)
 [![My Codeforces profile](https://img.shields.io/badge/-Codeforces-blue?logo=codeforces&style=plastic)](https://codeforces.com/profile/COM38.comma)
 
-###### Data Science
+###### Data science
 
 [![My Kaggle profile](https://img.shields.io/badge/-Kaggle-blue?logo=kaggle&style=plastic)](https://www.kaggle.com/weft169aston)
 [![My DRIVENDATA profile](https://img.shields.io/badge/-DRIVENDATA-blue?style=plastic)](https://www.drivendata.org/users/X6HmvZ73AEmpU8nXPn2JFplMUw/)
