@@ -33,6 +33,7 @@
 
 ##### Others
 
+[<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="19" />](https://huggingface.co/Agog)
 [<img src="https://www.worldcommunitygrid.org/images/logo_images/dyn_logo_3.jpg" height="20" />](https://www.worldcommunitygrid.org/stat/viewMemberInfo.do?userName=Agog)
 [<img src="https://static.scistarter.org/img/scistarter-logo-web-r.svg" height="18" />](https://scistarter.org/profile?for=81095)
 [![My Duolingo profile](https://img.shields.io/badge/Duolingo-jW3jYbeH0s9T-lightgray?logo=duolingo&style=plastic)](https://www.duolingo.com/profile/jW3jYbeH0s9T)
