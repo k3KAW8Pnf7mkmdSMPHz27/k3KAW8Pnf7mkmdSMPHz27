@@ -4,7 +4,6 @@
 
 [<img src="https://global-uploads.webflow.com/62a0fbe5836707b9c409e214/62a0fc2657ac64c7eec40d72_TUVU-3.svg" height="18" />](https://api.tuvu.com/redirectProfile/611963cc88479972fe669c6b)
 <a href="https://www.linkedin.com/in/jonatanasketorp/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>
-<a href="https://triplebyte.com/tb/jonatan-asketorp-b1wozrq"><img src="https://img.shields.io/badge/Triplebyte-0077B5?style=plastic"></a>
 
 #### Top open-source contributions
 
