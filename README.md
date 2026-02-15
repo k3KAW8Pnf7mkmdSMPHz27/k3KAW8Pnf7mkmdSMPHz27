@@ -1,4 +1,4 @@
-### Hej! 👋 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k3KAW8Pnf7mkmdSMPHz27&layout=compact" alt="My most used programming languages">
+### Hej! 👋
 
 #### Social
 
