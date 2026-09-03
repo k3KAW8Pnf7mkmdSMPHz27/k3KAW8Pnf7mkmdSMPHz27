@@ -3,7 +3,7 @@
 I'm **Jonatan**, a backend and infrastructure engineer. I build the systems other engineers depend on: delivery pipelines, developer tooling, observability, and the orchestration underneath ML workers.
 
 - 🔧 A [maintainer](https://github.com/JabRef/jabref/blob/main/MAINTAINERS) of [JabRef](https://github.com/JabRef/jabref) since 2021, a 4,600+ ⭐ open-source reference manager: reviewing community pull requests, making architectural calls on external contributions, and onboarding first-time contributors
-- 🎓 Two-time Google Summer of Code mentor ([2026: LibreOffice integration for JabRef](https://summerofcode.withgoogle.com/programs/2026/projects/Aj2w4sr7), 2021: Word add-in)
+- 🎓 Google Summer of Code mentor ([2021: Microsoft Word add-in for JabRef](https://github.com/JabRef/JabRef-Word-Addin/wiki/GSOC-2021-Microsoft-Word-Integration))
 - 🛠️ 2021–2026: backend, delivery, and observability infrastructure at a social network; most recently the re-architecture of its ML worker orchestration onto durable execution on Kubernetes
 - 🤖 Shipped: two MCP servers, [Apple Reminders in Swift](https://github.com/k3KAW8Pnf7mkmdSMPHz27/EventKitMCP) on the official SDK (Homebrew-packaged) and the [Morgen calendar API in Python](https://github.com/k3KAW8Pnf7mkmdSMPHz27/MorgenMCP); earlier in 2026, LLM quantization and local serving on Apple Silicon (MLX)
 - 🎓 In progress: an M.S. in AI
